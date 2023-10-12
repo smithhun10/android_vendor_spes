@@ -1,4 +1,8 @@
+numPCRsBeforeStreamOn=0
+aecGainThresholdForCDS=32
 isVideoMimovieSupported=1
+superVideoFilterVersion=0
+isVideoBeautyEISSupported=TRUE
 isColorEnhancementSupported=1
 enableBLMClient=0
 multiCameraHWSyncMask=0x1
@@ -19,3 +23,4 @@ traceGroupsEnable=0
 enable3ADebugData=FALSE
 enableTuningMetadata=FALSE
 raiserecoverysigabrt=FALSE
+FDPreprocessing=AdaptiveGTM

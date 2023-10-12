@@ -26,7 +26,7 @@ audio_tx_macro.ko
 audio_machine_bengal.ko
 audio_snd_event.ko
 audio_aw87xxx.ko
-audio_fs1599.ko
+audio_lct_pinctrl.ko
 exfat.ko
 qca_cld3_wlan.ko
 exfat.ko
